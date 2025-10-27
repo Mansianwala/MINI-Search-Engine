@@ -37,7 +37,7 @@ It means that there are two documents, one for each line. The first word in each
 
 There are some demo datasets provided (in the [datasets folder](./datasets)), as well as some queries (in the [queries folder](./queries)) for them and their corresponding results (in the [results folder](./results)).
 
-> The document IDs must be given in order (starting from 0). An appropriate check is performed and in the case that an error is found the application is terminated.
+> The document IDs must be given in order (starting from 0). An appropriate check is performed and in the case that an error is found the application is terminated
 
 
 <a name="data_structures"/>
