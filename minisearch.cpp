@@ -15,6 +15,8 @@ FILE * open_file(char * fn)
 }
 
 
+
+
 unsigned int get_number_of_lines(FILE * fp)
 {
     unsigned int lines = 0;
